@@ -1,3 +1,5 @@
 {
-  "projects": {}
+  "projects": {
+    "setup-manual": "git@private.bitbucket.org:bnware/vserv-setup-manual.git"
+  }
 }
