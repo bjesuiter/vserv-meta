@@ -1,0 +1,3 @@
+### Custom Ignores ###
+.idea
+*.iml
