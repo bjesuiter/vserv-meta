@@ -15,3 +15,15 @@ Important: All of these packages repos, hosted on bitbucket,
 where imported using `git@private.bitbucket.org`. 
 The `private.bitbucket.org` host is defined in `~.ssh/config` 
 with the correct ssh private key on jb-mbp-15.
+
+**SSH Config**
+
+    Host *private.bitbucket.org*
+        HostName bitbucket.org
+        User git
+        # use correct IdentityFile per machine!
+    	IdentityFile ~/.ssh/deployment@vserv
+    
+    # add private.bitbucket before bitbucket rule!
+    Host *bitbucket.org*
+    	IdentityFile ~/.ssh/deployment@vser
