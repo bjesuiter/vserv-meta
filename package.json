@@ -3,11 +3,24 @@
   "version": "0.0.1",
   "description": "A mateodelnorte/meta Project for managing all tools running on bjesuiter-vserv",
   "private": true,
-  "scripts": {},
+  "scripts": {
+    "install:all": "meta npm install "
+  },
   "repository": {
     "type": "git",
     "url": "git@private.bitbucket.org:bnware/vserv-meta.git"
   },
   "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
-  "license": "ISC"
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@types/node": "^12.0.8",
+    "globby": "latest",
+    "lnk": "^1.1.0",
+    "meta": "^2.2.4",
+    "meta-exec": "^1.3.1",
+    "meta-git": "^1.1.1",
+    "meta-npm": "^1.2.2",
+    "meta-project": "^2.2.1",
+    "npm-run-all": "^4.1.5"
+  }
 }
