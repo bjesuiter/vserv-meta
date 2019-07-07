@@ -1,0 +1,13 @@
+{
+  "name": "vserv-meta",
+  "version": "0.0.1",
+  "description": "A mateodelnorte/meta Project for managing all tools running on bjesuiter-vserv",
+  "private": true,
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@private.bitbucket.org:bnware/vserv-meta.git"
+  },
+  "author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
+  "license": "ISC"
+}
