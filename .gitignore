@@ -11,3 +11,4 @@ node_modules
 /url-shortener-polr/
 /rancher/
 /traefik/
+/verdaccio-npm-registry/
