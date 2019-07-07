@@ -2,3 +2,4 @@
 .idea
 *.iml
 /setup-manual/
+/reverse-proxy/

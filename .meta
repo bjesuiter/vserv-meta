@@ -1,5 +1,6 @@
 {
   "projects": {
-    "setup-manual": "git@private.bitbucket.org:bnware/vserv-setup-manual.git"
+    "setup-manual": "git@private.bitbucket.org:bnware/vserv-setup-manual.git",
+    "reverse-proxy": "git@private.bitbucket.org:bnware/vserv-reverse-proxy.git"
   }
 }
