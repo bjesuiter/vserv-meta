@@ -27,3 +27,16 @@ with the correct ssh private key on jb-mbp-15.
     # add private.bitbucket before bitbucket rule!
     Host *bitbucket.org*
     	IdentityFile ~/.ssh/deployment@vser
+
+## TODO 
+
+- enable Traefik API Dashboard in secure way: https://docs.traefik.io/configuration/api/
+- Add multiple domains to one backend by adding them with comma to the `Host` rule:  
+
+         [frontends.frontend2]
+            [frontends.frontend2.routes.test_1]
+            rule = "Host:test1.localhost,test2.localhost"
+          [frontends.frontend3]
+          backend = "backend2"
+            [frontends.frontend3.routes.test_1]
+            rule = "Path:/test1,/test2"
