@@ -12,3 +12,4 @@ node_modules
 /rancher/
 /traefik/
 /verdaccio-npm-registry/
+/cryptomator-server/
