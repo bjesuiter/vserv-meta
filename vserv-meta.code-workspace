@@ -1,0 +1,35 @@
+{
+	"folders": [
+		{
+			"path": "cryptomator-server"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "nextcloud"
+		},
+		{
+			"path": "rancher"
+		},
+		{
+			"path": "reverse-proxy"
+		},
+		{
+			"path": "setup-manual"
+		},
+		{
+			"path": "traefik"
+		},
+		{
+			"path": "url-shortener-polr"
+		},
+		{
+			"path": "url-shortener-shlink"
+		},
+		{
+			"path": "verdaccio-npm-registry"
+		}
+	],
+	"settings": {}
+}
