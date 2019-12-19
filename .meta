@@ -8,6 +8,7 @@
     "rancher": "git@private.bitbucket.org:bnware/vserv-rancher.git",
     "traefik": "git@private.bitbucket.org:bnware/vserv-traefik.git",
     "verdaccio-npm-registry": "git@private.bitbucket.org:bnware/vserv-verdaccio-npm-registry.git",
-    "cryptomator-server": "git@private.bitbucket.org:bnware/vserv-cryptomator-server.git"
+    "cryptomator-server": "git@private.bitbucket.org:bnware/vserv-cryptomator-server.git",
+    "subsonic": "git@private.bitbucket.org:bnware/vserv-subsonic.git"
   }
 }
