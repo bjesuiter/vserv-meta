@@ -13,3 +13,4 @@ node_modules
 /traefik/
 /verdaccio-npm-registry/
 /cryptomator-server/
+/passbolt/
