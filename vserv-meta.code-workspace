@@ -29,6 +29,9 @@
 		},
 		{
 			"path": "subsonic"
+		},
+		{
+			"path": "passbolt"
 		}
 	],
 	"settings": {}
