@@ -26,6 +26,9 @@
 		},
 		{
 			"path": "verdaccio-npm-registry"
+		},
+		{
+			"path": "subsonic"
 		}
 	],
 	"settings": {}
