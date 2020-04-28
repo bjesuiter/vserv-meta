@@ -1,0 +1,58 @@
+# This project DOES NOT really use .gitmodules.
+# But VSCode currently ignores the nested vcs roots of this meta repo,
+# because the folders of the nested repos are ignored in the .gitignore in the meta repo.
+#
+# The .gitmodules file with fake entries forces VSCode into tracking the git repos of the subfolders. 
+# The idea comes from p3t3r5 at:  
+# <https://github.com/microsoft/vscode/issues/37947>
+# 
+# **CAUTION:** This is a hack and could break in the future!
+
+[submodule "cryptomator-server"]
+path = cryptomator-server
+url = dummy_string_to_satisfy_vscode
+
+[submodule "nextcloud"]
+path = nextcloud
+url = dummy_string_to_satisfy_vscode
+
+[submodule "passbolt"]
+path = passbolt
+url = dummy_string_to_satisfy_vscode
+
+[submodule "rancher"]
+path = rancher
+url = dummy_string_to_satisfy_vscode
+
+[submodule "reverse-proxy"]
+path = reverse-proxy
+url = dummy_string_to_satisfy_vscode
+
+
+[submodule "setup-manual"]
+path = setup-manual
+url = dummy_string_to_satisfy_vscode
+
+
+[submodule "subsonic"]
+path = subsonic
+url = dummy_string_to_satisfy_vscode
+
+
+[submodule "traefik"]
+path = traefik
+url = dummy_string_to_satisfy_vscode
+
+
+[submodule "url-shortener-polr"]
+path = url-shortener-polr
+url = dummy_string_to_satisfy_vscode
+
+
+[submodule "url-shortener-shlink"]
+path = url-shortener-shlink
+url = dummy_string_to_satisfy_vscode
+
+[submodule "verdaccio-npm-registry"]
+path = verdaccio-npm-registry
+url = dummy_string_to_satisfy_vscode
