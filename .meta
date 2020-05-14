@@ -9,7 +9,7 @@
     "traefik": "git@private.bitbucket.org:bnware/vserv-traefik.git",
     "verdaccio-npm-registry": "git@private.bitbucket.org:bnware/vserv-verdaccio-npm-registry.git",
     "cryptomator-server": "git@private.bitbucket.org:bnware/vserv-cryptomator-server.git",
-    "passbolt": "git@private.bitbucket.org:bnware/vserv-passbolt.git"
+    "passbolt": "git@private.bitbucket.org:bnware/vserv-passbolt.git",
     "subsonic": "git@private.bitbucket.org:bnware/vserv-subsonic.git"
   }
 }
