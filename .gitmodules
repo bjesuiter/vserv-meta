@@ -16,6 +16,10 @@ url = dummy_string_to_satisfy_vscode
 path = passbolt
 url = dummy_string_to_satisfy_vscode
 
+[submodule "plex"]
+path = plex
+url = dummy_string_to_satisfy_vscode
+
 [submodule "rancher"]
 path = rancher
 url = dummy_string_to_satisfy_vscode
