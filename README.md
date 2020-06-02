@@ -40,3 +40,20 @@ with the correct ssh private key on jb-mbp-15.
           backend = "backend2"
             [frontends.frontend3.routes.test_1]
             rule = "Path:/test1,/test2"
+
+## Todo - Kubernetes Upgrade
+
+See also GDrive/System/!Server Management/MicroK8s / Kubernetes
+
+Aim: less manual work with managing the lifecycle of my services 
+
+### Questions
+- Clear up Terminology of Kubernetes: Container, Pod, Deployment, etc. 
+- How to convert docker-compose to Kubernetes YAML Files? 
+- How to ensure that all containers inside a Pod 
+
+### Milestones 
+
+- Run Service on local microk8s on mac 
+- Configure microk8s on remote server 
+- develop buddy pipeline which deploys my services to my one-server kubernetes cluster 
