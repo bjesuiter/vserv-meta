@@ -4,7 +4,8 @@
   "description": "A mateodelnorte/meta Project for managing all tools running on bjesuiter-vserv",
   "private": true,
   "scripts": {
-    "install:all": "meta npm install "
+    "install:all": "meta npm install ",
+    "set-git-user": "meta exec \"git config user.email bjesuiter@gmail.com\""
   },
   "repository": {
     "type": "git",
