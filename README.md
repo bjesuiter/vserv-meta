@@ -41,6 +41,10 @@ with the correct ssh private key on jb-mbp-15.
             [frontends.frontend3.routes.test_1]
             rule = "Path:/test1,/test2"
 
+## TODO - SSH Security & User Setup 
+
+- Learn about: https://www.youtube.com/watch?v=7pJKBL9x6bY&t=132s
+
 ## TODO - Volume Backups 
 Read, unterstand and implement https://docs.docker.com/storage/volumes/
 
