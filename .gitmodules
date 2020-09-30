@@ -9,6 +9,10 @@
 # **CAUTION:** This is a hack and could break in the future!
 
 [submodule "nextcloud"]
+path = bitwarden-rs
+url = dummy_string_to_satisfy_vscode
+
+[submodule "nextcloud"]
 path = nextcloud
 url = dummy_string_to_satisfy_vscode
 

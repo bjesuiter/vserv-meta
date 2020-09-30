@@ -10,6 +10,7 @@
     "verdaccio-npm-registry": "git@private.bitbucket.org:bnware/vserv-verdaccio-npm-registry.git",
     "passbolt": "git@private.bitbucket.org:bnware/vserv-passbolt.git",
     "subsonic": "git@private.bitbucket.org:bnware/vserv-subsonic.git",
-    "plex": "git@bitbucket.org:bnware/vserv-plex.git"
+    "plex": "git@bitbucket.org:bnware/vserv-plex.git",
+    "bitwarden-rs": "git@github.com:bjesuiter/vserv-bitwarden-rs.git"
   }
 }
