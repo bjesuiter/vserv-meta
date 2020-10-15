@@ -17,3 +17,4 @@ node_modules
 /subsonic/
 /plex/
 /bitwarden-rs/
+/backup-service/

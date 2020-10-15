@@ -8,7 +8,11 @@
 # 
 # **CAUTION:** This is a hack and could break in the future!
 
-[submodule "nextcloud"]
+[submodule "backup-service"]
+path = backup-service
+url = dummy_string_to_satisfy_vscode
+
+[submodule "bitwarden-rs"]
 path = bitwarden-rs
 url = dummy_string_to_satisfy_vscode
 
