@@ -13,7 +13,6 @@ node_modules
 /traefik/
 /verdaccio-npm-registry/
 /cryptomator-server/
-/passbolt/
 /subsonic/
 /plex/
 /bitwarden-rs/

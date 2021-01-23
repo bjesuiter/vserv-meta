@@ -24,9 +24,6 @@ url = dummy_string_to_satisfy_vscode
 path = nextcloud
 url = dummy_string_to_satisfy_vscode
 
-[submodule "passbolt"]
-path = passbolt
-url = dummy_string_to_satisfy_vscode
 
 [submodule "plex"]
 path = plex
