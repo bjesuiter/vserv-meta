@@ -16,6 +16,10 @@ url = dummy_string_to_satisfy_vscode
 path = bitwarden-rs
 url = dummy_string_to_satisfy_vscode
 
+[submodule "directus"]
+path = directus
+url = dummy_string_to_satisfy_vscode
+
 [submodule "nextcloud"]
 path = nextcloud
 url = dummy_string_to_satisfy_vscode
