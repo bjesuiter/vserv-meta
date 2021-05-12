@@ -33,11 +33,6 @@ url = dummy_string_to_satisfy_vscode
 path = rancher
 url = dummy_string_to_satisfy_vscode
 
-[submodule "reverse-proxy"]
-path = reverse-proxy
-url = dummy_string_to_satisfy_vscode
-
-
 [submodule "setup-manual"]
 path = setup-manual
 url = dummy_string_to_satisfy_vscode

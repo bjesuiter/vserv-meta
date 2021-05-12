@@ -5,7 +5,6 @@ node_modules
 
 ### Meta Ignores ###
 /setup-manual/
-/reverse-proxy/
 /url-shortener-shlink/
 /nextcloud/
 /url-shortener-polr/
