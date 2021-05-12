@@ -8,6 +8,10 @@
 # 
 # **CAUTION:** This is a hack and could break in the future!
 
+[submodule "ansible"]
+path = ansible
+url = dummy_string_to_satisfy_vscode
+
 [submodule "backup-service"]
 path = backup-service
 url = dummy_string_to_satisfy_vscode

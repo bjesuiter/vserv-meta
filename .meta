@@ -11,6 +11,7 @@
     "plex": "git@bitbucket.org:bnware/vserv-plex.git",
     "bitwarden-rs": "git@github.com:bjesuiter/vserv-bitwarden-rs.git",
     "backup-service": "git@github.com:bjesuiter/vserv-backup-service.git",
-    "directus": "git@git.bg-f.org:bjesuiter/gridsome-directus-vserv.git"
+    "directus": "git@git.bg-f.org:bjesuiter/gridsome-directus-vserv.git",
+    "ansible": "git@github.com:bjesuiter/vserv-ansible.git"
   }
 }
