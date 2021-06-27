@@ -8,12 +8,7 @@ https://github.com/mateodelnorte/meta-project
 
 ## Included Projects
 
-- [vserv-setup-manual](https://bitbucket.org/bnware/vserv-setup-manual)
-- [vserv-reverse-proxy](https://bitbucket.org/bnware/vserv-reverse-proxy)
-- [vserv-url-shortener-shlink](https://bitbucket.org/bnware/vserv-url-shortener-shlink)
-- [polr-url-shortener-service](https://github.com/bjesuiter/polr-url-shortener-service)
-- [vserv-nextcloud](https://bitbucket.org/bnware/vserv-nextcloud)
-- [vserv-rancher](https://bitbucket.org/bnware/vserv-rancher/src/master/)
+see `/.meta` file 
 
 Important: All of these packages repos, hosted on bitbucket,
 where imported using `git@private.bitbucket.org`.
@@ -52,6 +47,12 @@ with the correct ssh private key on jb-mbp-15.
 ## TODO - Volume Backups
 
 Read, unterstand and implement https://docs.docker.com/storage/volumes/
+
+## TODO - Implement Doppler for Secrets management 
+
+1. Install Doppler Package locally (macOS) and online (ubuntu): https://docs.doppler.com/docs/enclave-installation
+2. Run `doppler login`
+3. TODO: Setup projects with synced credentials 
 
 ## Todo - Kubernetes Upgrade
 
