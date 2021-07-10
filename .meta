@@ -2,7 +2,7 @@
   "projects": {
     "setup-manual": "git@private.bitbucket.org:bnware/vserv-setup-manual.git",
     "url-shortener-shlink": "git@private.bitbucket.org:bnware/vserv-url-shortener-shlink.git",
-    "nextcloud": "git@private.bitbucket.org:bnware/vserv-nextcloud.git",
+    "nextcloud": "git@github.com:bjesuiter/vserv-nextcloud.git",
     "url-shortener-polr": "git@github.com:bjesuiter/polr-url-shortener-service.git",
     "rancher": "git@private.bitbucket.org:bnware/vserv-rancher.git",
     "traefik": "git@private.bitbucket.org:bnware/vserv-traefik.git",
