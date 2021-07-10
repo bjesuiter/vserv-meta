@@ -10,7 +10,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git@bitbucket.org:bnware/vserv-meta.git"
+		"url": "git@github.com:bjesuiter/vserv-meta.git"
 	},
 	"author": "Benjamin Jesuiter <bjesuiter@gmail.com>",
 	"license": "UNLICENSED",
