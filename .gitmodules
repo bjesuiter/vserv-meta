@@ -28,6 +28,9 @@ url = dummy_string_to_satisfy_vscode
 path = nextcloud
 url = dummy_string_to_satisfy_vscode
 
+[submodule "minio"]
+path = minio
+url = dummy_string_to_satisfy_vscode
 
 [submodule "plex"]
 path = plex
