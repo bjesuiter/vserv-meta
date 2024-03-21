@@ -49,12 +49,6 @@ url = dummy_string_to_satisfy_vscode
 path = subsonic
 url = dummy_string_to_satisfy_vscode
 
-
-[submodule "traefik"]
-path = traefik
-url = dummy_string_to_satisfy_vscode
-
-
 [submodule "url-shortener-polr"]
 path = url-shortener-polr
 url = dummy_string_to_satisfy_vscode

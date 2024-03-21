@@ -5,7 +5,6 @@
 		"nextcloud": "git@github.com:bjesuiter/vserv-nextcloud.git",
 		"url-shortener-polr": "git@github.com:bjesuiter/polr-url-shortener-service.git",
 		"rancher": "git@private.bitbucket.org:bnware/vserv-rancher.git",
-		"traefik": "git@github.com:bjesuiter/vserv-traefik.git",
 		"verdaccio-npm-registry": "git@private.bitbucket.org:bnware/vserv-verdaccio-npm-registry.git",
 		"subsonic": "git@private.bitbucket.org:bnware/vserv-subsonic.git",
 		"plex": "git@github.com:bjesuiter/vserv-plex.git",
